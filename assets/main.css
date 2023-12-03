@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-main {
+  background-color: #c59b69;
+  color: #161211;
+  transition: background-color 0.3s ease; /* Optional: Add a smooth transition effect */
+}
+
+.bg-main:hover {
+  background-color: #714522;
+  color: #161211;
+}
+
+.logo {
+  font-family: "Pacifico", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+body {
+  font-family: "Ubuntu", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+  
