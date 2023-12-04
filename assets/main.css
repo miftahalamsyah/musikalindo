@@ -26,6 +26,18 @@
   color: #161211;
 }
 
+
+.bg-second {
+  background-color: #714522;
+  color: #161211;
+  transition: background-color 0.3s ease; /* Optional: Add a smooth transition effect */
+}
+
+.bg-second:hover {
+  background-color: #c59b69;
+  color: #161211;
+}
+
 .logo {
   font-family: "Pacifico", cursive;
   -webkit-font-smoothing: antialiased;

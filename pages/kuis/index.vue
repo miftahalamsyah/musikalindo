@@ -1,10 +1,10 @@
 <template>
   <head>
-    <title>Kuis | Belajar Pencernaan</title>
+    <title>Kuis | Musikalindo</title>
   </head>
   <section class="mt-8 max-w-6xl justify-center mx-auto px-5">
     <div class="py-12 px-4 mx-auto text-center z-20 animate-up">
-      <h1 class="text-xl font-extrabold tracking-tight leading-none text-gray-900 md:text-2xl lg:text-3xl">Kuis</h1>
+      <h1 class="text-xl font-extrabold tracking-tight leading-none md:text-2xl lg:text-3xl">Kuis</h1>
       <p class="text-sm">Uji Pengetahuan Anda Melalui Kuis Berikut</p>
     </div>
     <div class="mb-48">
