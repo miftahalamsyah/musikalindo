@@ -17,6 +17,8 @@
             <p class="text-sm font-normal mt-2">Sapek dapat ditemukan di beberapa provinsi di Kalimantan, seperti Kalimantan Timur, Kalimantan Barat, dan Kalimantan Tengah. Setiap wilayah mungkin memiliki gaya dan teknik bermain sapek yang sedikit berbeda, mencerminkan keanekaragaman budaya di antara suku-suku Dayak. Penggunaan sapek juga dapat bervariasi, mulai dari pengiring dalam tarian adat hingga musik ritual.</p>
             <p class="text-sm font-normal mt-2">
             Seiring waktu, sapek juga diperkenalkan dalam konteks musik yang lebih luas di Indonesia, dan pemain sapek telah menciptakan variasi baru dalam gaya bermain dan pembuatan sapek. Meskipun demikian, sapek tetap menjadi bagian tak terpisahkan dari identitas musik tradisional Kalimantan, menyuarakan kekayaan warisan budaya masyarakat Dayak.</p>
+
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Sapek Guitar" frameborder="0" allowfullscreen mozallowfullscreen="true" class="rounded-xl mx-auto" webkitallowfullscreen="true" width="580" height="240"  allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cc6775ee72d14521bdee94337dd44a73/embed?ui_theme=dark&dnt=1"> </iframe> </div>
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/rebab" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">
@@ -30,6 +32,7 @@
           <svg width="17" height="17" viewBox="0 0 24 24" data-name="Flat Color" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="ml-1 icon flat-color"><path d="m18.6 11.2-12-9A1 1 0 0 0 5 3v18a1 1 0 0 0 .55.89 1 1 0 0 0 1-.09l12-9a1 1 0 0 0 0-1.6Z"/></svg>
           </nuxt-link>
         </div>
+
   </template>
 
   <script setup lang="ts">

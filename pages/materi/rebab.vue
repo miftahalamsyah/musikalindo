@@ -16,6 +16,9 @@
             <p class="text-sm font-normal mt-2">Rebab memiliki sejarah yang panjang, dengan akar yang dapat ditelusuri kembali ke zaman pertengahan. Instrumen ini diperkirakan pertama kali muncul di wilayah Timur Tengah pada abad ke-8. Rebab kemudian menyebar ke berbagai belahan dunia, termasuk Asia, Afrika, dan Eropa. Di Indonesia, rebab menjadi salah satu instrumen utama dalam berbagai jenis musik tradisional, terutama dalam gamelan.</p>
             <p class="text-sm font-normal mt-2">
             Saat membicarakan Indonesia, rebab sering diasosiasikan dengan musik tradisional Jawa dan Bali. Di Jawa, rebab sering digunakan dalam gamelan Jawa, yang merupakan ansambel musik tradisional dari Jawa Tengah dan Jawa Timur. Di Bali, rebab juga merupakan instrumen penting dalam musik gamelan Bali. Keduanya adalah provinsi di Indonesia yang memiliki warisan seni dan budaya yang kaya, dan rebab memainkan peran sentral dalam menyuarakan keindahan musik tradisional di wilayah ini.</p>
+
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Rebab (ADR (KLTN) CHEISA 25)" frameborder="0" class="mx-auto rounded-xl" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/ec7a536fe0284f9a8f6d39e058f71757/embed?ui_theme=dark"> </iframe> </div>
+
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/gong" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">

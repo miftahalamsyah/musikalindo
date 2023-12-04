@@ -16,6 +16,8 @@
             <p class="text-sm font-normal mt-2">Bonang memiliki sejarah panjang dalam musik tradisional Indonesia. Instrumen ini telah ada sejak zaman kerajaan di Jawa dan menjadi bagian integral dari gamelan, sebuah ansambel musik yang mencakup berbagai instrumen perkusi dan melodis. Bonang digunakan dalam berbagai konteks musik, baik dalam upacara keagamaan, pementasan seni tradisional, maupun sebagai bagian dari hiburan di istana kerajaan.</p>
             <p class="text-sm font-normal mt-2">
             Seiring waktu, bonang mengalami perkembangan dalam teknik pembuatan dan gaya memainkannya. Berbagai jenis bonang telah dikembangkan, termasuk bonang panerus yang lebih kecil dan bonang barung yang lebih besar. Sejarah bonang mencerminkan kekayaan budaya Indonesia dan peran pentingnya dalam mempertahankan warisan musik tradisional. Hari ini, bonang masih digunakan dan dihargai dalam berbagai pertunjukan musik tradisional di Indonesia dan di seluruh dunia.</p>
+
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Gamelan Bonang" class="rounded-xl mx-auto" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/62d902057a6d4e358dc5b5832a6b5994/embed?ui_theme=dark"> </iframe> </div>
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/angklung" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">
