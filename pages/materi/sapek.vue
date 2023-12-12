@@ -4,7 +4,7 @@
     </head>
         <div class="bg-white text-stone-900 p-5 shadow-md rounded-3xl mt-2 mb-5">
             <img src="~/assets/sapek.jpg" class="relative mb-2 max-h-48 rounded-t-3xl object-cover w-full " />
-            <audio controls class="my-2 rounded-3xl mx-auto">
+            <audio controls class="my-2 rounded-3xl mx-auto" width="100%">
               <source src="~/assets/sapek.mp3" type="audio/mp3" />
               Your browser does not support the audio tag.
             </audio>
@@ -18,7 +18,7 @@
             <p class="text-sm font-normal mt-2">
             Seiring waktu, sapek juga diperkenalkan dalam konteks musik yang lebih luas di Indonesia, dan pemain sapek telah menciptakan variasi baru dalam gaya bermain dan pembuatan sapek. Meskipun demikian, sapek tetap menjadi bagian tak terpisahkan dari identitas musik tradisional Kalimantan, menyuarakan kekayaan warisan budaya masyarakat Dayak.</p>
 
-            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Sapek Guitar" frameborder="0" allowfullscreen mozallowfullscreen="true" class="rounded-xl mx-auto" webkitallowfullscreen="true" width="580" height="240"  allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cc6775ee72d14521bdee94337dd44a73/embed?ui_theme=dark&dnt=1"> </iframe> </div>
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Sapek Guitar" frameborder="0" allowfullscreen mozallowfullscreen="true" class="rounded-xl mx-auto" webkitallowfullscreen="true" width="100%"  height="240"  allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cc6775ee72d14521bdee94337dd44a73/embed?ui_theme=dark&dnt=1"> </iframe> </div>
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/rebab" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">

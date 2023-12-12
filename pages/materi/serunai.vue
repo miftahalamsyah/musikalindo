@@ -4,7 +4,7 @@
     </head>
         <div class="bg-white text-stone-900 p-5 shadow-md rounded-3xl mt-2 mb-5">
             <img src="~/assets/serunai.jpg" class="relative mb-2 max-h-48 rounded-t-3xl object-cover w-full " />
-            <audio controls class="my-2 rounded-3xl mx-auto">
+            <audio controls class="my-2 rounded-3xl mx-auto" width="100%">
               <source src="~/assets/serunai.mp3" type="audio/mp3" />
               Your browser does not support the audio tag.
             </audio>
@@ -16,7 +16,7 @@
             <p class="text-sm font-normal mt-2">Serunai memiliki sejarah yang panjang dan perkiraan awal penggunaannya dapat ditelusuri hingga berabad-abad yang lalu. Meskipun tidak ada catatan spesifik tentang tahun-tahun tertentu, serunai diyakini telah menjadi bagian integral dari budaya Minangkabau di Sumatra sejak zaman kuno.</p>
             <p class="text-sm font-normal mt-2">Pada perkiraan awal penggunaannya, serunai menjadi alat musik yang penting dalam berbagai upacara adat, upacara keagamaan, dan perayaan tradisional masyarakat Minangkabau. Keunikan suara serunai dan peranannya dalam menyemarakkan berbagai acara kehidupan sehari-hari membuatnya menjadi instrumen yang dihargai dan dilestarikan dari generasi ke generasi. Keunikan suara serunai dan perannya dalam konteks budaya dan keagamaan telah menjadikannya sebagai salah satu simbol identitas kultural masyarakat Minangkabau. Meskipun serunai umumnya terkait dengan tradisi Sumatra, instrumen ini juga telah menarik minat di luar Indonesia sebagai bagian dari keragaman warisan musik Nusantara.</p>
 
-            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Serunai Kelantan (ADR (KLTN) CHEISA 22)" frameborder="0" allowfullscreen mozallowfullscreen="true" class="mx-auto rounded-xl" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/58ec833f286c4342b9607bc1845bd104/embed?ui_theme=dark"> </iframe> </div>
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Serunai Kelantan (ADR (KLTN) CHEISA 22)" frameborder="0" allowfullscreen mozallowfullscreen="true" class="mx-auto rounded-xl" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%"  height="240" src="https://sketchfab.com/models/58ec833f286c4342b9607bc1845bd104/embed?ui_theme=dark"> </iframe> </div>
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/saron" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">

@@ -6,7 +6,7 @@
   <section class="max-w-6xl justify-center mx-auto px-5 mb-24">
     <div class="hero min-h-screen">
       <div class="hero-content flex-col lg:flex-row">
-        <img src="~/public/angklung.png" class="max-w-sm shaky-image" />
+        <img src="~/public/angklung.png" class="max-w-sm shaky-image hidden sm:hidden md:block lg:block" />
         <div>
           <h1 class="text-2xl md:text-3xl lg:text-4xl font-bold">Eksplorasi Alat Musik Tradisional</h1>
           <p class="py-6 text-lg">Selamat datang di Musikalindo! Sumber pembelajaran alat musik tradisional Indonesia. Dengan materi edukatif kami, dengan hadiri kelas virtual menggunakan teknologi Realitas Virtual (VR) untuk pengalaman belajar yang lebih menarik. Bergabunglah dengan kami di Musikalindo dan temukan keindahan melodi tradisional Indonesia!</p>

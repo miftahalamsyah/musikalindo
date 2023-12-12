@@ -4,7 +4,7 @@
     </head>
         <div class="bg-white text-stone-900 p-5 shadow-md rounded-3xl mt-2 mb-5">
             <img src="~/assets/gendang.jpg" class="relative mb-2 max-h-48 rounded-t-3xl object-cover w-full " />
-            <audio controls class="my-2 rounded-3xl mx-auto">
+            <audio controls class="my-2 rounded-3xl mx-auto" width="100%" >
               <source src="~/assets/gendang.mp3" type="audio/mp3" />
               Your browser does not support the audio tag.
             </audio>
@@ -16,7 +16,7 @@
             <p class="text-sm font-normal mt-2">Gendang memiliki sejarah yang panjang dan luas di berbagai budaya di seluruh dunia. Di Indonesia, gendang telah digunakan sejak zaman kerajaan dan menjadi bagian tak terpisahkan dari warisan musik Nusantara. Jenis dan bentuk gendang bervariasi antar daerah dan suku di Indonesia, mencerminkan kekayaan budaya yang beragam.</p>
             <p class="text-sm font-normal mt-2">
             Gendang tidak hanya digunakan dalam konteks musik, tetapi juga seringkali memegang peran penting dalam upacara keagamaan, upacara adat, dan ritual kebudayaan. Di era modern, gendang terus digunakan dalam berbagai bentuk musik, termasuk musik populer dan dunia, tetapi tetap mempertahankan nilai dan identitas tradisionalnya. Gendang terus menjadi simbol keberagaman dan kekayaan warisan musik di Indonesia serta berkontribusi pada keindahan dan kekuatan musik Nusantara.</p>
-            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Gendang Bulo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" class="rounded-xl mx-auto" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/21c60cffafad447d83a7314926241cec/embed?ui_theme=dark"> </iframe> </div>
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Gendang Bulo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" class="rounded-xl mx-auto" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%"  height="240" src="https://sketchfab.com/models/21c60cffafad447d83a7314926241cec/embed?ui_theme=dark"> </iframe> </div>
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/bonang" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">

@@ -4,7 +4,7 @@
     </head>
     <div class="bg-white text-stone-900 p-5 shadow-md rounded-3xl mt-2 mb-5">
       <img src="~/assets/angklung.jpg" class="relative mb-2 max-h-48 rounded-t-3xl object-cover w-full " />
-      <audio controls class="my-2 rounded-3xl mx-auto">
+      <audio controls class="my-2 rounded-3xl mx-auto" width="100%" >
         <source src="~/assets/angklung.mp3" type="audio/mp3" />
         Your browser does not support the audio tag.
       </audio>
@@ -16,7 +16,7 @@
       <p class="text-sm font-normal mt-2">Angklung memiliki sejarah panjang di Nusantara, bahkan sebelum era Hindu. Selain ditemukan di Jawa Barat, angklung juga dikenal di daerah Sumatra Selatan, Kalimantan, Lampung, Jawa Timur, dan Jawa Tengah. Dalam lingkungan Kerajaan Sunda (abad ke-12 hingga abad ke-16), angklung digunakan dalam pemujaan terhadap Nyai Sri Pohaci sebagai lambang Dewi Sri. Selain itu, angklung juga dimainkan sebagai alat musik penggembira dalam peperangan, sesuai dengan cerita dalam Kidung Sunda.</p>
       <p class="text-sm font-normal mt-2">Perkembangan angklung di Jawa Barat dipengaruhi oleh tokoh seperti Daeng Soetigna dan Udjo Ngalagena. Pada tahun 1938, Daeng Soetigna menciptakan inovasi angklung dengan tangga nada diatonis, memungkinkannya dimainkan harmonis bersama alat musik Barat. Inovasi ini membuat angklung semakin populer dan diakui oleh UNESCO sebagai Karya Agung Warisan Budaya Lisan dan Nonbendawi Manusia pada November 2010. Udjo Ngalagena, murid Daeng Soetigna, berperan dalam mempopulerkan angklung dengan mendirikan "Saung Angklung" di Bandung, yang masih menjadi pusat kreativitas terkait angklung hingga saat ini.</p>
 
-      <div class="sketchfab-embed-wrapper py-5"> <iframe title="Angklung" frameborder="0" class="rounded-xl mx-auto" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/1ac9bf54e3f24ab0a61295da4be10598/embed?ui_theme=dark"> </iframe> </div>
+      <div class="sketchfab-embed-wrapper py-5"> <iframe title="Angklung" frameborder="0" class="rounded-xl mx-auto" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="240" src="https://sketchfab.com/models/1ac9bf54e3f24ab0a61295da4be10598/embed?ui_theme=dark"> </iframe> </div>
     </div>
     <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
       <div class="col-span-1">

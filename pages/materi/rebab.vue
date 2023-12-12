@@ -4,7 +4,7 @@
     </head>
         <div class="bg-white text-stone-900 p-5 shadow-md rounded-3xl mt-2 mb-5">
             <img src="~/assets/rebab.jpg" class="relative mb-2 max-h-48 rounded-t-3xl object-cover w-full " />
-            <audio controls class="my-2 rounded-3xl mx-auto">
+            <audio controls class="my-2 rounded-3xl mx-auto" width="100%" >
               <source src="~/assets/rebab.mp3" type="audio/mp3" />
               Your browser does not support the audio tag.
             </audio>
@@ -17,7 +17,7 @@
             <p class="text-sm font-normal mt-2">
             Saat membicarakan Indonesia, rebab sering diasosiasikan dengan musik tradisional Jawa dan Bali. Di Jawa, rebab sering digunakan dalam gamelan Jawa, yang merupakan ansambel musik tradisional dari Jawa Tengah dan Jawa Timur. Di Bali, rebab juga merupakan instrumen penting dalam musik gamelan Bali. Keduanya adalah provinsi di Indonesia yang memiliki warisan seni dan budaya yang kaya, dan rebab memainkan peran sentral dalam menyuarakan keindahan musik tradisional di wilayah ini.</p>
 
-            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Rebab (ADR (KLTN) CHEISA 25)" frameborder="0" class="mx-auto rounded-xl" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/ec7a536fe0284f9a8f6d39e058f71757/embed?ui_theme=dark"> </iframe> </div>
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Rebab (ADR (KLTN) CHEISA 25)" frameborder="0" class="mx-auto rounded-xl" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%"  height="240" src="https://sketchfab.com/models/ec7a536fe0284f9a8f6d39e058f71757/embed?ui_theme=dark"> </iframe> </div>
 
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">

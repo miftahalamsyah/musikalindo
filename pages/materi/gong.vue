@@ -4,7 +4,7 @@
     </head>
         <div class="bg-white text-stone-900 p-5 shadow-md rounded-3xl mt-2 mb-5">
             <img src="~/assets/gong.webp" class="relative mb-2 max-h-48 rounded-t-3xl object-cover w-full " />
-            <audio controls class="my-2 rounded-3xl mx-auto">
+            <audio controls class="my-2 rounded-3xl mx-auto" width="100%">
               <source src="~/assets/gong.mp3" type="audio/mp3" />
               Your browser does not support the audio tag.
             </audio>
@@ -17,7 +17,7 @@
             <p class="text-sm font-normal mt-2">
             Gong sering dihargai sebagai simbol keagungan dan kekuatan spiritual. Ukiran dan desain pada gong sering kali memiliki makna simbolis yang mendalam dan mencerminkan nilai-nilai budaya masyarakat tempatnya berasal. Meskipun gong masih digunakan dalam musik tradisional, instrumen ini juga telah diterima dalam konteks musik dunia dan digunakan dalam berbagai genre musik, menunjukkan fleksibilitas dan daya tarik universalnya.</p>
 
-            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Gong" class="rounded-xl mx-auto" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="580" height="240" src="https://sketchfab.com/models/340439452d5547139e0bdebaf8ad5df1/embed?ui_theme=dark"> </iframe> </div>
+            <div class="sketchfab-embed-wrapper py-5"> <iframe title="Gong" class="rounded-xl mx-auto" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%"  height="240" src="https://sketchfab.com/models/340439452d5547139e0bdebaf8ad5df1/embed?ui_theme=dark"> </iframe> </div>
         </div>
         <div class="grid grid-cols-3 gap-2 w-full mb-24 block">
           <nuxt-link to="/materi/gendang" class="text-xs col-span-1 bg-main p-3 shadow-md rounded-3xl align-center text-center justify-center flex">

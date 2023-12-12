@@ -14,7 +14,7 @@
                     <h5 class="mb-2 font-bold tracking-tight text-stone-900 text-lg">Hubs </h5>
                 </a>
                 <p class="mb-3 font-normal text-stone-700 text-sm">Untuk memulai ruang 3D virtual anda dapat menekan tombol "Create a room with this scene" atau menggunakan URL yang diberikan oleh guru.</p>
-                <a href="https://hubs.mozilla.com/BWefVRV/useful-reliable-roundtable" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-main rounded-3xl">
+                <a href="https://hubs.mozilla.com/br9LgNg/classic-weary-adventure" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-main rounded-3xl">
                     Mainkan Sekarang
                     <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
